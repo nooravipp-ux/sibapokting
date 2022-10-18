@@ -1,0 +1,1340 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Public+Sans:wght@500;600;700;800&display=swap
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65ww.ttf
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww.ttf
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65ww.ttf
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww.ttf
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww.ttf
+Content Type: font/ttf
+
+Uri: https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyArZVfNvjnLNwJZlLJKuOiWHZ6vtQzzb1Y
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\maps\api\js
+Content Type: text/javascript
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/about-us.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\about-us.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/css/app.min.css
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\css\app.min.css
+Content Type: text/css
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/css/bootstrap.min.css
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/css/fontawesome.css
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\css\fontawesome.css
+Content Type: text/css
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/css/icomoon-font.css
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\css\icomoon-font.css
+Content Type: text/css
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/css/magnific-popup.css
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/css/main.css
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\css\main.css
+Content Type: text/css
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/css/slick.css
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/css/swiper-bundle.min.css
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-brands-400.eot
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-brands-400.eot?
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-brands-400.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-brands-400.ttf
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-brands-400.woff
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-brands-400.woff2
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-regular-400.eot
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-regular-400.eot?
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-regular-400.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-regular-400.ttf
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-regular-400.woff
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-regular-400.woff2
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-solid-900.eot
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-solid-900.eot?
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-solid-900.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-solid-900.ttf
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-solid-900.woff
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/fa-solid-900.woff2
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/icomoon.eot?w4klar
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\icomoon.eot
+Content Type: application/octet-stream
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/icomoon.svg?w4klar
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/icomoon.ttf?w4klar
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/fonts/icomoon.woff?w4klar
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\fonts\icomoon.woff
+Content Type: application/font-woff
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/about-thumb1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\about-thumb1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/about-thumb2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\about-thumb2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/client1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\client1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/client10.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\client10.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/client2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\client2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/client3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\client3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/client4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\client4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/client5.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\client5.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/client6.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\client6.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/client7.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\client7.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/client8.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\client8.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/client9.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\client9.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/icon1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\icon1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/icon2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\icon2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/icon3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\icon3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/team1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\team1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/team2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\team2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/team3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\team3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/team4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\team4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/team5.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\team5.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/team6.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\team6.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/team7.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\team7.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/team8.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\team8.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/trustpilot.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\trustpilot.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/video-thumb.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\video-thumb.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/about/video-thumb2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\about\video-thumb2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/app-store.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\app-store.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/blog/01.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\blog\01.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/blog/02.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\blog\02.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/blog/blog-single-thumb.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\blog\blog-single-thumb.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/blog/blog1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\blog\blog1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/blog/blog2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\blog\blog2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/blog/blog3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\blog\blog3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/blog/blog4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\blog\blog4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/blog/blog5.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\blog\blog5.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/blog/blog6.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\blog\blog6.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/blog/comment1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\blog\comment1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/blog/comment2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\blog\comment2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/blog/comment3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\blog\comment3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/blog/recent-post1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\blog\recent-post1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/blog/recent-post2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\blog\recent-post2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/blog/recent-post3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\blog\recent-post3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/blog/user.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\blog\user.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/career/icon1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\career\icon1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/career/icon2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\career\icon2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/career/icon3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\career\icon3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/career/thumb.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\career\thumb.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/client.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\client.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/client1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\client1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/client2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\client2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/client3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\client3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/client4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\client4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/client5.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\client5.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/contact/icon1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\contact\icon1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/contact/icon2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\contact\icon2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/contact/icon3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\contact\icon3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/hand-mocup.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\hand-mocup.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/icon1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\icon1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/icon2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\icon2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/icon3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\icon3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/icon4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\icon4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/icon5.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\icon5.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/icon6.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\icon6.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/mocup1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\mocup1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/mocup2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\mocup2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/play-btn.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\play-btn.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/play-store.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\play-store.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/portfolio/p1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\portfolio\p1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/portfolio/p2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\portfolio\p2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/portfolio/p2/p2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\portfolio\p2\p2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/portfolio/p2/p3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\portfolio\p2\p3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/portfolio/p2/p4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\portfolio\p2\p4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/portfolio/p2/p5.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\portfolio\p2\p5.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/portfolio/p2/p6.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\portfolio\p2\p6.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/portfolio/p3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\portfolio\p3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/portfolio/p3/p1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\portfolio\p3\p1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/portfolio/p3/p2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\portfolio\p3\p2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/portfolio/p3/p3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\portfolio\p3\p3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/portfolio/p3/p4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\portfolio\p3\p4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/portfolio/p4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\portfolio\p4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/portfolio/p5.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\portfolio\p5.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/portfolio/p6.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\portfolio\p6.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/portfolio/p7.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\portfolio\p7.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/service/chart.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\service\chart.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/service/circle-bg.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\service\circle-bg.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/service/icon1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\service\icon1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/service/icon2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\service\icon2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/service/icon3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\service\icon3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/service/thumb.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\service\thumb.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/service/video-bg.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\service\video-bg.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/shapes-round.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\shapes-round.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/star-shape.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\star-shape.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/testimonial1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\testimonial1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/testimonial10.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\testimonial10.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/testimonial11.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\testimonial11.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/testimonial12.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\testimonial12.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/testimonial2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\testimonial2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/testimonial3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\testimonial3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/testimonial4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\testimonial4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/testimonial5.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\testimonial5.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/testimonial6.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\testimonial6.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/testimonial7.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\testimonial7.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/testimonial8.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\testimonial8.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/testimonial9.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\testimonial9.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v2/card1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v2\card1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v2/card2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v2\card2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v2/card3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v2\card3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v2/card4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v2\card4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v2/hero-thumb.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v2\hero-thumb.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v2/icon1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v2\icon1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v2/icon2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v2\icon2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v2/icon3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v2\icon3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v2/icon4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v2\icon4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v2/icon5.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v2\icon5.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v2/icon6.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v2\icon6.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v2/icon7.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v2\icon7.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v2/icon8.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v2\icon8.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v2/icon9.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v2\icon9.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v2/star.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v2\star.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v2/video-btn.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v2\video-btn.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v2/video-thumb.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v2\video-thumb.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/card1.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\card1.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/card10.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\card10.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/card11.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\card11.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/card12.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\card12.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/card2.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\card2.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/card3.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\card3.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/card4.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\card4.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/card5.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\card5.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/card6.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\card6.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/card7.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\card7.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/card8.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\card8.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/card9.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\card9.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/daimond.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\daimond.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/hero-bg.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\hero-bg.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/hero-thumb2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\hero-thumb2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/line.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\line.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/m-icon1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\m-icon1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/m-icon2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\m-icon2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/m-icon3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\m-icon3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/m-icon4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\m-icon4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/m-icon5.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\m-icon5.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/m-icon6.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\m-icon6.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/roadmap-icon1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\roadmap-icon1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/roadmap-icon2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\roadmap-icon2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/roadmap-icon3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\roadmap-icon3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/roadmap-icon4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\roadmap-icon4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/shape-hero1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\shape-hero1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/team1.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\team1.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/team2.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\team2.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/team3.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\team3.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/team4.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\team4.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/team5.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\team5.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v3/team6.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v3\team6.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/card1.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\card1.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/card2.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\card2.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/card3.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\card3.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/card4.jpg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\card4.jpg
+Content Type: image/jpeg
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/daimond.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\daimond.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/double-star.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\double-star.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/footer-bg.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\footer-bg.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/hero-bg.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\hero-bg.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/hero-thumb1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\hero-thumb1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/hero-thumb2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\hero-thumb2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/hero-thumb3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\hero-thumb3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/hero-thumb4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\hero-thumb4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/icon1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\icon1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/icon2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\icon2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/icon3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\icon3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/icon4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\icon4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/shape.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\shape.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/star-black-2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\star-black-2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/star-black.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\star-black.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/star.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\star.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/team1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\team1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/team2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\team2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/team3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\team3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/team4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\team4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v4/thumb1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v4\thumb1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/author1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\author1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/author2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\author2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/author3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\author3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/author4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\author4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/author5.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\author5.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/author6.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\author6.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/bitcoin1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\bitcoin1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/bitcoin2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\bitcoin2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/bitcoin3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\bitcoin3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/bitcoin4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\bitcoin4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/client1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\client1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/client2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\client2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/client3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\client3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/client4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\client4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/client5.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\client5.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/cta-thumb.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\cta-thumb.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/hero-bg2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\hero-bg2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/hero-thumb.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\hero-thumb.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/play-button.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\play-button.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/thumb.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\thumb.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/thumb2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\thumb2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/v5/video-thumb.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\v5\video-thumb.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/video-btn.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\video-btn.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/all-img/video-thumb.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\all-img\video-thumb.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/favicon.ico
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/logo/logo-black.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\logo\logo-black.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/logo/logo-white.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\logo\logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/shape/shape1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\shape\shape1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/shape/shape2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\shape\shape2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/shape/shape3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\shape\shape3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/shape/shape4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\shape\shape4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/shape/shape5.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\shape\shape5.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/shape/shape6.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\shape\shape6.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/shape/shape7.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\shape\shape7.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/shape/shape8.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\shape\shape8.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/shape2/hero-v2-shape1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\shape2\hero-v2-shape1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/shape2/hero-v2-shape2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\shape2\hero-v2-shape2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/shape2/shape-v2-3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\shape2\shape-v2-3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/shape2/shape-video.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\shape2\shape-video.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/shape2/shape1.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\shape2\shape1.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/shape2/shape2.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\shape2\shape2.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/shape2/shape3.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\shape2\shape3.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/shape2/shape4.png
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\shape2\shape4.png
+Content Type: image/png
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/social/call.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\social\call.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/social/email.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\social\email.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/social/map.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\social\map.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/social2/facebook.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\social2\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/social2/github.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\social2\github.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/social2/instagram.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\social2\instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/social2/twitter.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\social2\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/arrow-black-left.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\arrow-black-left.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/arrow-black-right.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\arrow-black-right.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/arrow-black-right2.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\arrow-black-right2.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/arrow-left-gray.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\arrow-left-gray.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/arrow-right-gray.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\arrow-right-gray.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/briefcase.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\briefcase.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/cash.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\cash.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/check1.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\check1.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/check2.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\check2.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/check3.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\check3.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/check4.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\check4.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/check5.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\check5.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/clock.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\clock.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/download.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\download.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/eamil.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\eamil.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/lightning-bolt.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\lightning-bolt.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/link.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\link.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/map.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\map.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/search.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\search.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/star1.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\star1.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/star2.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\star2.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/star3.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\star3.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg/star4.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg\star4.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg2/arrow-left.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg2\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg2/arrow-right.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg2\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg2/check.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg2\check.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg2/dots.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg2\dots.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg2/heart-black.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg2\heart-black.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg2/heart-red.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg2\heart-red.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg2/mail.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg2\mail.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg2/map.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg2\map.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg2/phone.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg2\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/images/svg2/star.svg
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\images\svg2\star.svg
+Content Type: image/svg+xml
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/js/app.js
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/js/bootstrap.bundle.min.js
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/js/countdown.js
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\js\countdown.js
+Content Type: application/javascript
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/js/isotope.pkgd.min.js
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/js/jquery-3.6.0.min.js
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/js/jquery.magnific-popup.min.js
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/js/menu/menu.js
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\js\menu\menu.js
+Content Type: application/javascript
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/js/slick.js
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\js\slick.js
+Content Type: application/javascript
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/assets/js/swiper-bundle.min.js
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\assets\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/blog.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\blog.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/career.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\career.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/coming-soon.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\coming-soon.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/contact.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\contact.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/error-404.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\error-404.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/faq.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\faq.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/index-2.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\index-2.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/index-3.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\index-3.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/index-4.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\index-4.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/index-5.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\index-5.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/index.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\index.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/portfolio-01.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\portfolio-01.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/portfolio-02.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\portfolio-02.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/portfolio-03.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\portfolio-03.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/pricing-01.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\pricing-01.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/pricing-02.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\pricing-02.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/service.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\service.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/single-blog.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\single-blog.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/single-career.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\single-career.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/single-portfolio.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\single-portfolio.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/single-service.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\single-service.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/single-team.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\single-team.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/team.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\team.html
+Content Type: text/html
+
+Uri: https://relaxed-kulfi-d9f700.netlify.app/testimonial.html
+File Name: K:\TEMPLATE COPIER\relaxed-kulfi-d9f700.netlify.app\testimonial.html
+Content Type: text/html
+

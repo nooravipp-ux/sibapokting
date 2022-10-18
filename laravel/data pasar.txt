@@ -1,0 +1,31 @@
+Pasar Sayati Margayahu Kec. Margahayu -6.967588, 107.573932
+Pasar Tradisional Margahayu Kec. Margahayu -6.974804, 107.561451
+Pasar Soreang Kec. Soreang -7.028488, 107.520456
+Pasar dan Terminal Ciwidey Kec. Ciwidey -7.099110, 107.470129
+Pasar Banjaran Kec. Banjaran -7.048461, 107.586623
+Pasar Baleendah Kec. Baleendah 6.999784, 107.629357
+Pasar Statsiun Majalaya Kec. Majalaya -7.047946, 107.760239
+Pasar Baru Majalaya Kec. Majalaya -7.048471, 107.765321
+Pasar Cicalengka Kec. Cicalengka -6.988033, 107.840054
+Pasar Sehat Cilaunyi Kec. Cileunyi -6.941358, 107.752265
+
+
+Beras Madiun
+Cabe Merah
+Bawang Merah
+Daging Ayam Ras
+Telor Ayam Ras
+Daging Sapi
+Minyak Goreng
+Gula Pasir
+Kedelai
+Tepung Terigu
+Bawang Putih
+Cabe Keriting
+Cabe Rawit
+Kacang Tanah
+Ubi Kayu
+Ubi Jalar
+Jagung
+Beras Permium
+Minyak Goreng Curah

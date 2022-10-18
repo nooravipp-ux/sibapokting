@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "server-sibapokting",
+  "private_key_id": "6bb730ae5cf9be86f7a5cfbe5d511f44bc1aca02",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1vvN4VxS3iFE9\nCDFWO/4lHhtbbgOoxfIzrJG7UFcOWecuejYN1SKnncvrBGXyaU4FqXc017LgdPOX\ngFL8gwn6eTfGNVvC/UtS+0syPR7Ss3N8CMI9Vegzo8K15seUw/lhdyy+dczpzfeK\nWIpF7dTrM699kTfho0E8Y8LJjLXGn5ExDxJhn/6QVe5M81DFv4Fmr/fHx22a7l/t\nE75o28xwDe2gsIMA7pc5SBq/IqF+0GSpJP9/VYHWmra3rwpj+8oqVv6qysADp1be\nOAhcvtboHX90ziVuUeym4m9E7lBckxwPTAlAva5k3Mr4xHqGWdvja+CvYSphKUof\nHY5WNuEVAgMBAAECggEARYIkqpMfXLv5We6us8zY+4girVqLcrpV0bZ/u9RTnyz6\nEhfyYWLw0Is0iIsTlFz61oaEDUUrZ9XCreAJnQJeyBkhICCbGh12d+Oc1Dd0+N9h\n3P+ajguzdUB9wMTk8rvqvgBur97swkSgFhybsXfutQ983/iwlw6xbe+3eQ7kHHSY\nfCIUzoSz/r7xIQ8kr3jXUbbz7QXyYZKTwN2wAKzwFSrYs0k6gx4jyuaCu33IpaoE\neSB0o6rsTXV0ayjjwnQJNDo6JcE3AumnFD/YAFMgyXEu+iXXUVtaBAF+dJ1bkmti\np09GqAI/l05WHTvwpTgK9Q3fjzPOlUXm2Kkkc/qe9wKBgQDYqOXkrerxfWRGqm5I\nWHnOP6UTzVZ/yzByxilHzWn/9nfBIH2ufWX8R50DwwvrZKpFgXMiob2zJVWtzfHn\nUgqb9pUZiJWnnDNLid1j8M1nI7dg+/cTvR1QkqiIkpDNpB+ZX7gk3ibrdQsh9Pxs\n8EPaymzEY/wCiJ2p03aQ8kWY/wKBgQDWvyKYsF4FOv4I+I0yPDiP5PkH0Xcb85Jh\n293YfwfgHV5JPZnnOg4ZOvK6Gg4ueHR4HU2ZBnj1Fjaw5VArHB3zTW9qf59yhJDN\nBas9n+n4Ik2xpGiFpACssWYYlD9EH5Lhhx33N1cWrD8IrNJn5Mum+K6pXAt02yEu\n8uvdSFWR6wKBgQCUjfpTegyF2HxRF7rWUBP0nx8JHNoada+agtT7LpVntA8YlLaY\nVdL/z/qRAcPCextk3QWc0VnI4+iDa5paCZ7MoZ5KC6TRcACb4sOyKwIrngm2rg0T\ns6/N90Eno5c16TrhZwhT/x6gg3hGqDwMVhGwiutZHVVGR3YTY7MAX53o8QKBgHHk\ncS7V6yePAAg1+ny4H6+BWupgl3FFn08zUtdtl/mu2cCyYRuXWL7c2rsE8pyG2g6S\nTANqwWAK5fqvw/L5OJE/cmXjRedwk3OJHCbU1zv4xYf/kEfAkXMFqwZCKcOxky71\ngFkLCq9FrzCkp/reB3yIy+manaDeTx0dTSbRJED9AoGBAJSSr0MyR+qXWzdehTDC\nfJfa1TDlTbFHTdlCSHUz7ODdxhwk0g/m4epo2d+pyzVZ8qaud/c7SOxZxCIfqUxs\nca7P5SBsvJadkHwepP6Rev4MUcmcxqZf4H7MjO3y3tvEXHi+ZTnfZrudF3zZCDZG\naH94LWDToSf8AelYhzJqiyO8\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fw6ej@server-sibapokting.iam.gserviceaccount.com",
+  "client_id": "106006749004364373879",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fw6ej%40server-sibapokting.iam.gserviceaccount.com"
+}
