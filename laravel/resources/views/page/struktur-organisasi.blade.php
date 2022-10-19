@@ -48,7 +48,7 @@
 
                 <div class="row">
                     @foreach($pejabat as $pj)
-                    @if($pj->urutan != 1 && $pj->urutan != 2)
+                    @if($pj->urutan != 1)
                     <div class="col-md-3">
                         <img style="display:block;margin-left: auto;margin-right: auto;" class="shadow-sm rounded" src="{{asset('struktur-organisasi/'.$pj->foto)}}" alt="" height="300" width="200">
                         <h5 class="text-center  pt-2">{{$pj->nama}}</h5>
