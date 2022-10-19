@@ -13,6 +13,29 @@
                             <ul>
                                 <li><a href="{{route('dashboard')}}">Home</a></li>
                                 <li>Tentang Kami</li>
+                                <p>
+  <a class="btn btn-primary" data-bs-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">VISI</a>
+  <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">MISI</button>
+  <div class="row">
+  <div class="col">
+    <div class="collapse multi-collapse" id="multiCollapseExample1">
+      <div class="card card-body"><h4>VISI</h4>
+      <p class="h6">
+        MEMANTAPKAN KABUPATEN YANG MAJU MNADIRI DAN BERDAYA SAING MELALUI TATA KELOLA PEMERINTAHAN YANG BAIK DAN SINERGI PEMBANGUNAN PERDESAANBERLANDASKAN RELIGIUS KURTULAR DAN BERWAWASAN
+</p>
+    </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="collapse multi-collapse" id="multiCollapseExample2">
+      <div class="card card-body">
+        Some placeholder content for the second collapse component of this multi-collapse example. This panel is hidden by default but revealed when the user activates the relevant trigger.
+      </div>
+    </div>
+  </div>
+</div>
+
+</p>
                             </ul>
                         </div>
                     </div>
