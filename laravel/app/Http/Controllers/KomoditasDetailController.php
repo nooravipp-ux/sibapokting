@@ -32,6 +32,7 @@ class KomoditasDetailController extends Controller
         $komoditas = DB::table('komoditas')->get();
         $pasar = DB::table('pasar')->get();
         $date = Carbon\carbon::now()->format('Y-m-d');
+
        
         if(Auth::user()->akses == 'user' or Auth::user()->akses == 'User'){
             if($request->has('_token')){
@@ -54,6 +55,8 @@ class KomoditasDetailController extends Controller
                 ->where('detail.detail_tgl',$request->tanggal)
                 ->orderBy('tanggal','asc')
                 ->get();
+
+                dd($select);
             }else{
                 $a = '';
                 $b = $date;
@@ -114,6 +117,7 @@ class KomoditasDetailController extends Controller
                     ->where('detail.detail_tgl',$request->tanggal)
                     ->orderBy('tanggal','asc')
                     ->get();
+                    // var dump ato "dd($select)" tidieu
                 }
             }else{
                 

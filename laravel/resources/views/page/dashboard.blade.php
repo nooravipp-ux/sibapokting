@@ -156,6 +156,21 @@
         font-weight: bold;
         font-family: "RobotoCondensed", sans-serif !important;
     }
+
+    .row-flex {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .content {
+        height: 100%;
+    }
+
+    .img-cover {
+        width:  300px;
+        height: 200px;
+        background-size: cover;
+    }
 </style>
 <!-- Start Services Area -->
 <section class="pt-100 pb-70 gray-bg ">
@@ -208,12 +223,12 @@
             <h2>Berita Terkini</h2>
         </div>
 
-        <div class="row">
+        <div class="row row-flex">
             @foreach ($articles as $i)
             <div class="col-lg-3 col-md-6">
-                <div class="single-blog-post">
+                <div class="single-blog-post content">
                     <div class="post-image">
-                        <a href="{{route('articlesdetail',[$i->id])}}"><img src="{{URL::to('/')}}/articles_/{{$i->gambar}}" alt="image"></a>
+                        <a href="{{route('articlesdetail',[$i->id])}}"><img class="img-cover" src="{{URL::to('/')}}/articles_/{{$i->gambar}}" alt="image"></a>
                     </div>
 
                     <div class="post-content">
@@ -224,7 +239,7 @@
                         </div>
 
                         <h3><a href="single-blog.html">{{$i->judul}}</a></h3>
-                        <p>{{ strip_tags(substr($i->konten, 0, 250)) }}...</p>
+                        <!-- <p>{{ strip_tags(substr($i->konten, 0, 250)) }}...</p> -->
 
                         <a href="{{route('articlesdetail',[$i->id])}}" class="read-more-btn">Read More <i class="flaticon-right-arrow"></i></a>
                     </div>
@@ -261,12 +276,12 @@
             <h2>Kegiatan</h2>
         </div>
 
-        <div class="row">
+        <div class="row row-flex">
             @foreach ($events as $j)
             <div class="col-lg-3 col-md-6">
-                <div class="single-blog-post">
+                <div class="single-blog-post content">
                     <div class="post-image">
-                        <a href="{{route('articlesdetail',[$j->id])}}"><img src="{{URL::to('/')}}/articles_/{{$j->gambar}}" alt="image"></a>
+                        <a href="{{route('articlesdetail',[$j->id])}}"><img class="img-cover" src="{{URL::to('/')}}/articles_/{{$j->gambar}}" alt="image"></a>
                     </div>
 
                     <div class="post-content">
