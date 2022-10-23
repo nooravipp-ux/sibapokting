@@ -223,7 +223,7 @@
             <h2>Berita Terkini</h2>
         </div>
 
-        <div class="row row-flex">
+        <div class="row row-flex owl-carousel">
             @foreach ($articles as $i)
             <div class="col-lg-3 col-md-6">
                 <div class="single-blog-post content">
@@ -247,19 +247,11 @@
             </div>
             @endforeach
         </div>
-        <nav aria-label="Page navigation example">
-  <ul class="pagination justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="#" tabindex="-1">Previous</a>
-    </li>
-    <li class="page-item"><a class="page-link" href="#">1</a></li>
-    <li class="page-item"><a class="page-link" href="#">2</a></li>
-    <li class="page-item"><a class="page-link" href="#">3</a></li>
-    <li class="page-item">
-      <a class="page-link" href="#">Next</a>
-    </li>
-  </ul>
-</nav>
+        <div class="row d-flex justify-content-center mt-3">
+            <div class="col-md-12">
+                {{$articles->links()}}
+            </div>
+        </div>
     </div>
 
     <div class="shape-img2"><img src="{{asset('aronix/assets/img/shape/2.svg')}}" alt="image"></div>
@@ -291,7 +283,7 @@
                             </ul>
                         </div>
 
-                        <p><a href="single-blog.html">{{$j->judul}}</a></p>
+                        <h3><a href="single-blog.html">{{$j->judul}}</a></h3>
                         <!-- <p>{{ strip_tags(substr($j->konten, 0, 250)) }}...</p> -->
 
                         <a href="{{route('articlesdetail',[$j->id])}}" class="read-more-btn">Read More <i class="flaticon-right-arrow"></i></a>

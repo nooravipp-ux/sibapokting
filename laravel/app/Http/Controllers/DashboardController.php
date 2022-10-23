@@ -24,7 +24,7 @@ class DashboardController extends Controller
         $banner1 = DB::table('banner')->where('type', 'header')->limit(1)->get();
         $banner2 = DB::table('banner')->where('type', 'content')->get();
         $banner3 = DB::table('banner')->where('type', 'footer')->get();
-        $articles = DB::table('articles')->where('kategori', 'Berita')->limit(4)->get();
+        $articles = DB::table('articles')->where('kategori', 'Berita')->paginate(4);
         $events = DB::table('articles')->where('kategori', 'Event')->limit(4)->get();
 
         if ($request->has('_token')) {
