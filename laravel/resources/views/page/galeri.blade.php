@@ -106,7 +106,7 @@
     <div class="container">
         <div class="gallery-image">
             @foreach($galeri as $gl)
-            <div class="img-box">
+            <div class="card" style="width: 18rem;">
                 <img src="{{asset('galeri/'.$gl->gambar)}}" alt="" />
                 <div class="transparent-box">
                     <div class="caption">

@@ -15,7 +15,7 @@ class FirebaseController extends Controller
         $serviceAccount = ServiceAccount::fromJsonFile(__DIR__.'/FirebaseKey.json');
         $firebase = (new Factory)
             ->withServiceAccount($serviceAccount)
-            ->withDatabaseUri('https://server-sibapokting.firebaseio.com/')
+            ->withDatabaseUrl('https://server-sibapokting.firebaseio.com/')
             ->create();
         $database = $firebase->getDatabase();
         $ref = $database->getReference('server')->getvalue();
