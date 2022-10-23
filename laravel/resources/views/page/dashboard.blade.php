@@ -223,7 +223,7 @@
             <h2>Berita Terkini</h2>
         </div>
 
-        <div class="row row-flex">
+        <div class="row row-flex owl-carousel">
             @foreach ($articles as $i)
             <div class="col-lg-3 col-md-6">
                 <div class="single-blog-post content">
@@ -246,6 +246,11 @@
                 </div>
             </div>
             @endforeach
+        </div>
+        <div class="row d-flex justify-content-center mt-3">
+            <div class="col-md-12">
+                {{$articles->links()}}
+            </div>
         </div>
     </div>
 
@@ -278,7 +283,7 @@
                             </ul>
                         </div>
 
-                        <p><a href="single-blog.html">{{$j->judul}}</a></p>
+                        <h3><a href="single-blog.html">{{$j->judul}}</a></h3>
                         <!-- <p>{{ strip_tags(substr($j->konten, 0, 250)) }}...</p> -->
 
                         <a href="{{route('articlesdetail',[$j->id])}}" class="read-more-btn">Read More <i class="flaticon-right-arrow"></i></a>

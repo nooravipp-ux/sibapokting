@@ -52,7 +52,7 @@
 
         <link rel="icon" type="image/png" href="{{ asset('aronix/favicon/favicon.png')}}">
 
-        <link rel="stylesheet" href="{{ asset('/js/amcharts3/amcharts/plugins/export/export.css')}}">
+        <link rel="stylesheet" href="{{ asset('public/js/amcharts3/amcharts/plugins/export/export.css')}}">
         
         <link href="{{ asset('front/datatables.net-dt/css/jquery.dataTables.min.css')}}" rel="stylesheet">
         <link href="{{ asset('front/datatables.net-responsive-dt/css/responsive.dataTables.min.css')}}" rel="stylesheet">   
@@ -127,19 +127,19 @@
     <!-- <script src="{{ asset ("/js/select2/dist/js/select2.full.min.js") }}"></script> -->
     <!-- <script src="{{ asset ("/js/select2/dist/js/i18n/en.js") }}"></script> -->
     <!-- AmCharts3 -->
-    <script src="{{ asset('js/amcharts3/amcharts/amcharts.js')}}"></script>
-    <script src="{{ asset('js/amcharts3/amcharts/pie.js')}}"></script>
-    <script src="{{ asset('js/amcharts3/amcharts/serial.js')}}"></script>
-    <script src="{{ asset('js/amcharts3/amcharts/plugins/export/export.min.js')}}"></script>
-    <script src="{{ asset('js/amcharts3/amcharts/plugins/animate/animate.min.js')}}"></script>
-    <script src="{{ asset('js/amcharts3/amcharts/themes/light.js') }}"></script>
+    <script src="{{ asset('public/js/amcharts3/amcharts/amcharts.js')}}"></script>
+    <script src="{{ asset('public/js/amcharts3/amcharts/pie.js')}}"></script>
+    <script src="{{ asset('public/js/amcharts3/amcharts/serial.js')}}"></script>
+    <script src="{{ asset('public/js/amcharts3/amcharts/plugins/export/export.min.js')}}"></script>
+    <script src="{{ asset('public/js/amcharts3/amcharts/plugins/animate/animate.min.js')}}"></script>
+    <script src="{{ asset('public/js/amcharts3/amcharts/themes/light.js') }}"></script>
 
-    <script src="{{ asset ('js/amcharts5/index.js')}}"></script>
-    <script src="{{ asset ('js/amcharts5/xy.js')}}"></script>
-    <script src="{{ asset ('js/amcharts5/themes/Animated.js')}}"></script>
-    <script src="{{ asset ('js/amcharts5/locales/de_DE.js')}}"></script>
-    <script src="{{ asset ('js/geodata/germanyLow.js')}}"></script>
-    <script src="{{ asset ('js/fonts/notosans-sc.js')}}"></script>
+    <script src="{{ asset ('public/js/amcharts5/index.js')}}"></script>
+    <script src="{{ asset ('public/js/amcharts5/xy.js')}}"></script>
+    <script src="{{ asset ('public/js/amcharts5/themes/Animated.js')}}"></script>
+    <script src="{{ asset ('public/js/amcharts5/locales/de_DE.js')}}"></script>
+    <script src="{{ asset ('public/js/geodata/germanyLow.js')}}"></script>
+    <script src="{{ asset ('public/s/fonts/notosans-sc.js')}}"></script>
    
     @yield('js')
 </body>
